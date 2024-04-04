@@ -40,7 +40,7 @@ The heart of our success lies in the strategic selection of the Neural Network m
 
 This project not only showcases the symbiotic relationship between advanced analytics and healthcare but also emphasizes the criticality of methodical data preparation. By investing time and effort into refining our data, selecting pertinent features, and choosing the optimal model, we achieved precise predictions. These insights are not just confined to the realm of healthcare; they serve as a beacon, illuminating the path for impactful decision-making across diverse fields. This journey exemplifies the true potential of machine learning, not merely as a technical tool but as a catalyst for informed, impactful, and empathetic advancements in healthcare and beyond.
 
-If you have any feedback, please reach out to me at bubundebata1234@gmail.com
+If you have any feedback, please reach out to me at omprakashdebata12@gmail.com
 
 
 
